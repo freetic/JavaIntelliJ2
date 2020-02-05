@@ -1,0 +1,7 @@
+1. 은행예금을 나타내는 BankAccount 를 작성하시오. 
+  1)BackAccount는 잔액(balance)을 필드(멤버변수)로 가지며, 입금을 나타내는 deposit() 메소드와 출금을 나타내는 withdraw() 메소드를 가진다.
+  2)withdraw()에서 인출 금액이 잔액보다 크면 NegativeBalanceException을 발생한다.
+  3)BankAccount 클래스를 테스트하는 BankAccountTest 클래스를 작성하고 발생되는 예외를 try/catch를 이용하여 처리하시오.
+
+2. 숫자를 저장하고 있는 배열을 받아서 지정된 숫자를 찾는 searchArray() static method를 작성하시오.
+만약 배열 안에 원하는 숫자가 없으면 NotFoundException 예외를 발생한다. NotFoundException은 Exception을 상속받아서 작성하시오. searchArray() 메소드에서 발생되는 예외를 try/catch를 이용하여 처리하시오.

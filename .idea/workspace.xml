@@ -1,252 +1,335 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b895ea-7c71-4bca-9e0d-7437e8b060bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/0122Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/src/kr/co/bankaccount/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/src/kr/co/bankaccount/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/src/kr/co/bankaccount/NegativeBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/src/kr/co/searcharray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0122Practice/src/kr/co/searcharray/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/0123.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/EnumerationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/GenericDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0123/src/WrapperClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/0128.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0128/src/silsub/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/0129.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/FileInputStreamDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/IOBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/IOBasic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/IOBasic3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0129/src/NAA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0130/0130.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0130/data.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0130/src/FileInputStreamDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0130/src/FileOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0130/src/FilterStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0130/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/.idea/0131.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/0131.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/CharUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/InputStreamReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/PrintWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/RandomAccessFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/RandomAccessFileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/SerializationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/SerializationDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/CharUtility2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Mmmm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0131/src/silsub/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/0203.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/CharUtility2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Mmmm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/SerializationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0203/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/SalaryManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/kr/co/sist/libs/utils/DepartmentUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryManagement/src/kr/co/sist/libs/utils/SalGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0122Practice/META-INF/0122Practice.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/EnumerationDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/GenericDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/ListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/SetDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0123/WrapperClassDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Remove.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0128/silsub/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/FileInputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/FileInputStreamDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/IOBasic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/IOBasic1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/IOBasic3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0129/NAA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0130/FileInputStreamDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0130/FileOutputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0130/FilterStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0130/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/CharUtility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/FileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/FileDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/InputStreamReaderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/META-INF/0131.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/PrintWriterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/RandomAccessFileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/RandomAccessFileDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/SerializationDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/SerializationDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/CharUtility2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Mmmm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Sort$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0131/silsub/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/CharUtility2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Init.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Mmmm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/SerializationDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Sort$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/0203/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/META-INF/SalaryManagement.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/kr/co/sist/libs/utils/DepartmentUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SalaryManagement/kr/co/sist/libs/utils/SalGrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/MapDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/MapDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Sort$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/META-INF/성적관리프로젝트6.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Sort$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/성적관리프로젝트6/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/제품관리프로젝트/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/제품관리프로젝트/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/제품관리프로젝트/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/제품관리프로젝트/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/제품관리프로젝트/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Delete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Init.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Insert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Update.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/MapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트/성적관리프로젝트.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트6/성적관리프로젝트6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성적관리프로젝트9/성적관리프로젝트9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품관리프로젝트/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품관리프로젝트/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품관리프로젝트/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품관리프로젝트/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품관리프로젝트/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/제품관리프로젝트/제품관리프로젝트.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Delete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Init.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Insert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Save.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Update.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리프로그램/주소록관리프로그램.iml" afterDir="false" />
+    <list default="true" id="62b895ea-7c71-4bca-9e0d-7437e8b060bc" name="Default Changelist" comment="0205">
+      <change afterPath="$PROJECT_DIR$/.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TranslatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0204/0204.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0204/src/InetAddressDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0204/src/URLConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0204/src/URLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0204/src/silsub/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0204/src/silsub/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/0205.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/URLConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/URLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/src/URLEncoderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naver.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/BMIDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/IfDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/IfDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/InstanceVariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/LocalVariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/OpDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/OpDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/StaticVariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/SwitchDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/SwitchDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0108/VariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0109/ConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0109/ContinueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0109/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0109/DoDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0109/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0109/WhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/CallByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/CallByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/InstantiationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/LCMGCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/MethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/MethodDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/OverloadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/ReturnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0113/VariableArgumentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0114/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0114/EncapsulationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0114/EncapsulationDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0114/EncapsulationDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/EncapsulationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/InheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/InheritanceDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/InheritanceDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/OverrideDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/AbstractClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/AbstractClassDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Carnival.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/CastDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/GrandMother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InstanceofDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InstanceofDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InterfaceDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Matiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Sonata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Weekable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117-1/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117-1/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/FinalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/IPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0117실습과제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/EventDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/MainDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/StaticDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0120/StaticDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0121실습문제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/AssertionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/EnglishException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/KoreanException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0122실습문제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/EnumerationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/GenericDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0123/WrapperClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0129/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0130/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0130/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/0131실습.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/CharUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/InputStreamReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/PrintWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/RandomAccessFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/RandomAccessFileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131/usatoday.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0131주말과제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0204/0204실습과제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0204/URLConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0204/URLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpServer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/URLConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/URLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/0205/URLEncoderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/0128실습과제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Output.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/0128실습과제.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Output.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/CalendarProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/Java 조별실기시험.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/kr/co/sist/libs/utils/DepartmentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/kr/co/sist/libs/utils/SalGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryMgmt.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/telephone.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로그램/sungjuk_utf8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/CharUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/sungjuk_utf8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/스크린샷 2020-01-08 16.01.11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/스크린샷 2020-01-08 16.12.19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/스크린샷 2020-02-03 15.03.25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/실습과제_0121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/전화요금관리프로그램.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/productdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/처리조건.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Save.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/주소록만들기.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0131/src/PrintWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0131/src/PrintWriterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/0131/PrintWriterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/0131/silsub/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/주소록관리프로그램/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/주소록관리프로그램/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리프로그램/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="160" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -262,6 +345,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaIntelliJ2" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -275,23 +361,28 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Wk4biEsIPRwxYWtieghiQqo6wA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/0203/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="tasks.servers" />
+    <property name="settings.editor.selected.configurable" value="form.preferences.TranslatorConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -308,68 +399,56 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaIntelliJ2\0205\src" />
       <recent name="D:\JavaIntelliJ2\성적관리프로젝트9\src" />
       <recent name="D:\JavaIntelliJ2\0131\src\silsub" />
       <recent name="D:\JavaIntelliJ2\0130" />
       <recent name="D:\JavaIntelliJ2\SalaryManagement\src\kr\co\sist\libs\utils" />
-      <recent name="D:\JavaIntelliJ2\SalaryManagement\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="0203" />
+  <component name="RunManager" selected="Application.CalculatorServer">
+    <configuration name="CalculatorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorServer" />
+      <module name="0205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="주소록관리프로그램" />
+    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpServer" />
+      <module name="0205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="silsub.Main" />
-      <module name="0131" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="silsub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="URLConnectionDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="URLConnectionDemo" />
+      <module name="0205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mmmm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="silsub.Mmmm" />
-      <module name="0131" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="silsub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="URLDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="URLDemo" />
+      <module name="0205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializationDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SerializationDemo" />
-      <module name="0203" />
+    <configuration name="URLEncoderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="URLEncoderDemo" />
+      <module name="0205" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.SerializationDemo (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Mmmm" />
+        <item itemvalue="Application.CalculatorServer" />
+        <item itemvalue="Application.TcpServer" />
+        <item itemvalue="Application.URLConnectionDemo (1)" />
+        <item itemvalue="Application.URLDemo (1)" />
+        <item itemvalue="Application.URLEncoderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -405,12 +484,18 @@
       <workItem from="1580460259891" duration="239000" />
       <workItem from="1580688505596" duration="778000" />
       <workItem from="1580689308606" duration="21356000" />
-      <workItem from="1580775388312" duration="5087000" />
+      <workItem from="1580775388312" duration="12286000" />
+      <workItem from="1580798008776" duration="4077000" />
+      <workItem from="1580803265773" duration="2964000" />
+      <workItem from="1580861379422" duration="22472000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="387" y="294" key="#Getter_Template" timestamp="1580430229409">
@@ -437,42 +522,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580369868473" />
-    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1580718784194">
+    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1580884416180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580718784194" />
+    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580884416180" />
+    <state x="730" y="72" key="CommitChangelistDialog2" timestamp="1580892395563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="72" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892395563" />
+    <state x="368" y="119" key="DiffContextDialog" timestamp="1580892392650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="119" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580892392650" />
     <state x="1180" y="356" key="FileChooserDialogImpl" timestamp="1580460129271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1180" y="356" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580460129271" />
-    <state width="1080" height="192" key="GridCell.Tab.0.bottom" timestamp="1580719823749">
+    <state width="1218" height="148" key="GridCell.Tab.0.bottom" timestamp="1580889575663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1080" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580719823749" />
-    <state width="1080" height="192" key="GridCell.Tab.0.center" timestamp="1580719823749">
+    <state width="1218" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
+    <state width="1218" height="148" key="GridCell.Tab.0.center" timestamp="1580889575663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1080" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580719823749" />
-    <state width="1080" height="192" key="GridCell.Tab.0.left" timestamp="1580719823749">
+    <state width="1218" height="148" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
+    <state width="1218" height="148" key="GridCell.Tab.0.left" timestamp="1580889575663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1080" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580719823749" />
-    <state width="1080" height="192" key="GridCell.Tab.0.right" timestamp="1580719823749">
+    <state width="1218" height="148" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
+    <state width="1218" height="148" key="GridCell.Tab.0.right" timestamp="1580889575663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1080" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580719823749" />
+    <state width="1218" height="148" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
     <state x="771" y="222" width="705" height="604" key="NewModule_or_Project.wizard" timestamp="1579755983620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="222" width="705" height="604" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579755983620" />
-    <state x="380" y="157" key="SettingsEditor" timestamp="1580778163480">
+    <state x="293" y="50" key="SettingsEditor" timestamp="1580892026228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="380" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580778163480" />
-    <state width="623" height="498" key="SwitcherDM" timestamp="1580701453130">
+    <state x="293" y="50" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580892026228" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1580787889692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580701453130" />
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580787889692" />
     <state x="951" y="157" width="862" height="706" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580343715609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -481,14 +574,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580286805237" />
-    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1580775388229">
+    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1580861381311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580775388229" />
-    <state x="21" y="60" width="866" height="647" key="dock-window-1" timestamp="1580718557800">
+    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580861381311" />
+    <state x="971" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580884539815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="21" y="60" width="866" height="647" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1580718557800" />
+    <state x="971" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580884539815" />
+    <state x="92" y="192" width="959" height="697" key="dock-window-1" timestamp="1580892368662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="192" width="959" height="697" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1580892368662" />
     <state x="-24" y="108" width="784" height="656" key="dock-window-2" timestamp="1580372425367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -497,10 +594,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1005" y="376" width="613" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579761937499" />
-    <state x="244" y="112" key="new project wizard" timestamp="1580710509468">
+    <state x="244" y="112" key="new project wizard" timestamp="1580862566744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="244" y="112" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580710509468" />
+    <state x="244" y="112" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580862566744" />
     <state x="627" y="276" width="748" height="561" key="recent.locations.popup" timestamp="1580701309815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -509,10 +606,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580779028452" />
-    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup" timestamp="1580779365526">
+    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup" timestamp="1580873757221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580779365526" />
+    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580873757221" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,5 +626,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaIntelliJ2$URLDemo.ic" NAME="URLDemo Coverage Results" MODIFIED="1580797634337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

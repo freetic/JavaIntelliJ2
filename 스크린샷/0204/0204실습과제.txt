@@ -1,0 +1,6 @@
+실습문제
+1. 
+   <입력형식>  
+   URL : www.naver.com(www.naver.co.kr)
+   <출력형식>
+   C:/temp/naver.html로 저장 성공
