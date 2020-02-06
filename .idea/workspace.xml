@@ -1,327 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b895ea-7c71-4bca-9e0d-7437e8b060bc" name="Default Changelist" comment="0205">
-      <change afterPath="$PROJECT_DIR$/.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TranslatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0204/0204.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0204/src/InetAddressDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0204/src/URLConnectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0204/src/URLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0204/src/silsub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0204/src/silsub/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/0205.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/CalculatorServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/TcpServer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/URLConnectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/URLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0205/src/URLEncoderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/BMIDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/IfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/IfDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/IfDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/InstanceVariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/LocalVariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/OpDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/OpDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/StaticVariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/SwitchDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/SwitchDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0108/VariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0109/ConditionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0109/ContinueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0109/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0109/DoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0109/ForDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0109/WhileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/ArrayDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/HelloWorld8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0110/MethodDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/CallByReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/CallByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/ConstructorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/InstantiationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/LCMGCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/MethodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/OverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/ReturnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0113/VariableArgumentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0114/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0114/EncapsulationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0114/EncapsulationDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0114/EncapsulationDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/EncapsulationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/InheritanceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/InheritanceDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/InheritanceDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/OverrideDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0115/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/AbstractClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/AbstractClassDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/American.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Carnival.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/CastDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/GrandMother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InstanceofDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InstanceofDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/InterfaceDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Korean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Matiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/PolymorphismDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Sonata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0116/Weekable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117-1/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117-1/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/FinalDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/IPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0117실습과제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/EventDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/InnerClassDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/MainDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/StaticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/StaticDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0120/StaticDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0121실습문제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/AssertionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/EnglishException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/ExceptionDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/KoreanException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0122실습문제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/EnumerationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/GenericDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/MapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0123/WrapperClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0129/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0129/IOBasic3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0130/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0130/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/0131실습.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/CharUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/InputStreamReaderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/PrintWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/RandomAccessFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/RandomAccessFileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131/usatoday.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0131주말과제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0204/0204실습과제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0204/URLConnectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0204/URLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/TcpServer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/URLConnectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/URLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/0205/URLEncoderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/0128실습과제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/bin/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/AddressList/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/0128실습과제.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/bin/Sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Addresslist_0129/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/CalendarProject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/Java 조별실기시험.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/kr/co/sist/libs/utils/DepartmentUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryManagement/kr/co/sist/libs/utils/SalGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/SalaryMgmt.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/telephone.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/급여관리프로그램/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로그램/sungjuk_utf8.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트6/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/CharUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트8/sungjuk_utf8.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/성적관리프로젝트9/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/스크린샷 2020-01-08 16.01.11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/스크린샷 2020-01-08 16.12.19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/스크린샷 2020-02-03 15.03.25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/실습과제_0121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/전화요금관리프로그램.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로그램/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/productdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/제품관리프로젝트/처리조건.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/Update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/주소록관리프로그램/주소록만들기.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스크린샷/환자관리프로그램/Sort.java" afterDir="false" />
+    <list default="true" id="62b895ea-7c71-4bca-9e0d-7437e8b060bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mariadb_java_client_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/0206.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/Apache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/ChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/ChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/MariaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/TimeClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/UdpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/UdpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/test/TTT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0206/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YogaReservationManagement/YogaReservationManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YogaReservationManagement/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/mariadb-java-client-2.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Save.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/주소록관리v2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0131/src/PrintWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0131/src/PrintWriterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0131/PrintWriterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0131/silsub/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/주소록관리프로그램/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/주소록관리프로그램/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/주소록관리프로그램/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/주소록관리프로그램/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리프로그램/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0205/src/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/0206/src/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0205/src/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/naver.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,6 +72,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -374,30 +95,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/0203/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tools/mariadb-java-client-2.5.4.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="form.preferences.TranslatorConfigurable" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="silsub" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaIntelliJ2\0203\src" />
-      <recent name="D:\JavaIntelliJ2\0131\src\silsub" />
-      <recent name="D:\JavaIntelliJ2\성적관리프로젝트6\src" />
-      <recent name="D:\JavaIntelliJ2\0130\src" />
-      <recent name="D:\JavaIntelliJ2\SalaryManagement2\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaIntelliJ2\0205\src" />
       <recent name="D:\JavaIntelliJ2\성적관리프로젝트9\src" />
@@ -405,50 +115,75 @@
       <recent name="D:\JavaIntelliJ2\0130" />
       <recent name="D:\JavaIntelliJ2\SalaryManagement\src\kr\co\sist\libs\utils" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaIntelliJ2\주소록관리v2\src" />
+      <recent name="D:\JavaIntelliJ2\0203\src" />
+      <recent name="D:\JavaIntelliJ2\0131\src\silsub" />
+      <recent name="D:\JavaIntelliJ2\성적관리프로젝트6\src" />
+      <recent name="D:\JavaIntelliJ2\0130\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="silsub" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CalculatorServer">
-    <configuration name="CalculatorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorServer" />
-      <module name="0205" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="주소록관리v2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TcpServer" />
-      <module name="0205" />
+    <configuration name="TTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TTT" />
+      <module name="0206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLConnectionDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="URLConnectionDemo" />
-      <module name="0205" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="0206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="URLDemo" />
-      <module name="0205" />
+    <configuration name="TimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeServer" />
+      <module name="0206" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLEncoderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="URLEncoderDemo" />
-      <module name="0205" />
+    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpServer" />
+      <module name="0206" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorServer" />
-        <item itemvalue="Application.TcpServer" />
-        <item itemvalue="Application.URLConnectionDemo (1)" />
-        <item itemvalue="Application.URLDemo (1)" />
-        <item itemvalue="Application.URLEncoderDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TTT" />
+        <item itemvalue="Application.TimeServer" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UdpServer" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +192,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MariaDB - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MariaDB - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@51ae41ce" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -487,8 +232,25 @@
       <workItem from="1580775388312" duration="12286000" />
       <workItem from="1580798008776" duration="4077000" />
       <workItem from="1580803265773" duration="2964000" />
-      <workItem from="1580861379422" duration="22472000" />
+      <workItem from="1580861379422" duration="22690000" />
+      <workItem from="1580948187742" duration="15916000" />
+      <workItem from="1580967809752" duration="11158000" />
     </task>
+    <task id="LOCAL-00001" summary="0205">
+      <created>1580892561025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580892561025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0205">
+      <created>1580892633193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580892633193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,6 +258,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="0205" />
+    <option name="LAST_COMMIT_MESSAGE" value="0205" />
   </component>
   <component name="WindowStateProjectService">
     <state x="387" y="294" key="#Getter_Template" timestamp="1580430229409">
@@ -506,70 +270,90 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="824" y="181" key="#Main/0.0.1920.1040@0.0.1920.1040" timestamp="1579761107127" />
-    <state x="879" y="194" key="#Project_Structure" timestamp="1580710606738">
+    <state x="879" y="194" key="#Project_Structure" timestamp="1580977955797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="879" y="194" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1580710606738" />
+    <state x="879" y="194" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1580977955797" />
     <state x="987" y="240" key="#Setter_Template" timestamp="1580430245582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="987" y="240" key="#Setter_Template/0.0.1920.1040@0.0.1920.1040" timestamp="1580430245582" />
-    <state x="766" y="300" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580187434345">
+    <state x="937" y="334" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580967163985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="766" y="300" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580187434345" />
+    <state x="937" y="334" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580967163985" />
     <state x="747" y="375" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580369868473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580369868473" />
-    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1580884416180">
+    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1580974571890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580884416180" />
-    <state x="730" y="72" key="CommitChangelistDialog2" timestamp="1580892556487">
+    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580974571890" />
+    <state x="870" y="159" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580952019790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="730" y="72" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892556487" />
+    <state x="870" y="159" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580952019790" />
+    <state x="660" y="157" key="#index.html" timestamp="1580959698106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="157" key="#index.html/0.0.1920.1040@0.0.1920.1040" timestamp="1580959698106" />
+    <state x="730" y="72" key="CommitChangelistDialog2" timestamp="1580892632239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="72" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892632239" />
     <state x="368" y="119" key="DiffContextDialog" timestamp="1580892392650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="368" y="119" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580892392650" />
-    <state x="1180" y="356" key="FileChooserDialogImpl" timestamp="1580460129271">
+    <state x="847" y="360" key="EnvironmentVariablesDialog" timestamp="1580949977608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1180" y="356" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580460129271" />
-    <state width="1218" height="148" key="GridCell.Tab.0.bottom" timestamp="1580889575663">
+    <state x="847" y="360" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580949977608" />
+    <state x="1016" y="256" key="ExecutionTargetDialog" timestamp="1580967569864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
-    <state width="1218" height="148" key="GridCell.Tab.0.center" timestamp="1580889575663">
+    <state x="1016" y="256" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580967569864" />
+    <state x="1112" y="306" key="FileChooserDialogImpl" timestamp="1580978690418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="148" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
-    <state width="1218" height="148" key="GridCell.Tab.0.left" timestamp="1580889575663">
+    <state x="1112" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580978690418" />
+    <state width="1218" height="142" key="GridCell.Tab.0.bottom" timestamp="1580978897390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="148" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
-    <state width="1218" height="148" key="GridCell.Tab.0.right" timestamp="1580889575663">
+    <state width="1218" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
+    <state width="1218" height="142" key="GridCell.Tab.0.center" timestamp="1580978897390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="148" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580889575663" />
+    <state width="1218" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
+    <state width="1218" height="142" key="GridCell.Tab.0.left" timestamp="1580978897390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1218" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
+    <state width="1218" height="142" key="GridCell.Tab.0.right" timestamp="1580978897390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1218" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
+    <state width="288" height="548" key="HiddenNamespacesPopup" timestamp="1580967232936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="288" height="548" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1580967232936" />
     <state x="771" y="222" width="705" height="604" key="NewModule_or_Project.wizard" timestamp="1579755983620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="222" width="705" height="604" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579755983620" />
-    <state x="293" y="50" key="SettingsEditor" timestamp="1580892026228">
+    <state x="624" y="0" key="SettingsEditor" timestamp="1580978840591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="293" y="50" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580892026228" />
+    <state x="624" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580978840591" />
     <state width="623" height="498" key="SwitcherDM" timestamp="1580787889692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580787889692" />
-    <state x="633" y="207" key="Vcs.Push.Dialog.v2" timestamp="1580892617637">
+    <state x="633" y="207" key="Vcs.Push.Dialog.v2" timestamp="1580892636399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892617637" />
+    <state x="633" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892636399" />
     <state x="951" y="157" width="862" height="706" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580343715609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -578,18 +362,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580286805237" />
-    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1580861381311">
+    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1580967809958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580861381311" />
+    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580967809958" />
     <state x="971" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580884539815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="971" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580884539815" />
-    <state x="92" y="192" width="959" height="697" key="dock-window-1" timestamp="1580892368662">
+    <state x="276" y="174" width="959" height="697" key="dock-window-1" timestamp="1580975627407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="192" width="959" height="697" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1580892368662" />
+    <state x="276" y="174" width="959" height="697" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1580975627407" />
     <state x="-24" y="108" width="784" height="656" key="dock-window-2" timestamp="1580372425367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -598,10 +382,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1005" y="376" width="613" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579761937499" />
-    <state x="244" y="112" key="new project wizard" timestamp="1580862566744">
+    <state x="743" y="284" key="new project wizard" timestamp="1580977900166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="244" y="112" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580862566744" />
+    <state x="743" y="284" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580977900166" />
     <state x="627" y="276" width="748" height="561" key="recent.locations.popup" timestamp="1580701309815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -610,10 +394,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580779028452" />
-    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup" timestamp="1580873757221">
+    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup" timestamp="1580966625807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580873757221" />
+    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580966625807" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,6 +411,11 @@
           <url>file://$PROJECT_DIR$/0128/src/silsub/Output.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/0206/src/ChatServer.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -10,12 +10,15 @@
       <module fileurl="file://$PROJECT_DIR$/0203/0203.iml" filepath="$PROJECT_DIR$/0203/0203.iml" />
       <module fileurl="file://$PROJECT_DIR$/0204/0204.iml" filepath="$PROJECT_DIR$/0204/0204.iml" />
       <module fileurl="file://$PROJECT_DIR$/0205/0205.iml" filepath="$PROJECT_DIR$/0205/0205.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0206/0206.iml" filepath="$PROJECT_DIR$/0206/0206.iml" />
       <module fileurl="file://$PROJECT_DIR$/SalaryManagement/SalaryManagement.iml" filepath="$PROJECT_DIR$/SalaryManagement/SalaryManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YogaReservationManagement/YogaReservationManagement.iml" filepath="$PROJECT_DIR$/YogaReservationManagement/YogaReservationManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/성적관리프로젝트/성적관리프로젝트.iml" filepath="$PROJECT_DIR$/성적관리프로젝트/성적관리프로젝트.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaIntelliJ/성적관리프로젝트4/성적관리프로젝트41.iml" filepath="$PROJECT_DIR$/../JavaIntelliJ/성적관리프로젝트4/성적관리프로젝트41.iml" />
       <module fileurl="file://$PROJECT_DIR$/성적관리프로젝트6/성적관리프로젝트6.iml" filepath="$PROJECT_DIR$/성적관리프로젝트6/성적관리프로젝트6.iml" />
       <module fileurl="file://$PROJECT_DIR$/성적관리프로젝트9/성적관리프로젝트9.iml" filepath="$PROJECT_DIR$/성적관리프로젝트9/성적관리프로젝트9.iml" />
       <module fileurl="file://$PROJECT_DIR$/제품관리프로젝트/제품관리프로젝트.iml" filepath="$PROJECT_DIR$/제품관리프로젝트/제품관리프로젝트.iml" />
+      <module fileurl="file://$PROJECT_DIR$/주소록관리v2/주소록관리v2.iml" filepath="$PROJECT_DIR$/주소록관리v2/주소록관리v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/주소록관리프로그램/주소록관리프로그램.iml" filepath="$PROJECT_DIR$/주소록관리프로그램/주소록관리프로그램.iml" />
     </modules>
   </component>
