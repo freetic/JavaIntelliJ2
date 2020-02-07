@@ -2,81 +2,73 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-    private Scanner sc;
-    ArrayList<Person> list;
-    private static final String PATH;   // static 상수 선언
+	private Scanner scan;
+	private ArrayList<Person> list;
 
-    static{
-        PATH = "C:/temp/addresslist.ser";   // static 상수 초기화
-    }
-    public Main(){
-        this.sc = new Scanner(System.in);
-        this.list = new ArrayList<>();
-    }
+	public Main() {
+		this.scan = new Scanner(System.in);
+	}
 
-    public static void main(String[] args) {
-        
-        Main main = new Main(); // 여기서 스캐너 초기화
-        Init init = new Init(PATH);
-        main.list = init.init();
+	public static void main(String[] args) {
+		Main main = new Main();
 
-        System.out.println("Program loading Success");
+		Init init = new Init();
+		main.list = init.init();    //ArrayList<Person>을 새로 만들었거나, 기존의 객체를 가져왔거나
 
-        while(true){
-            int choice = main.showMenu();
-            main.process(choice);
-        }
-    }
-    private int showMenu(){
-        boolean flag;
-        int choice = 0;
-        do {
-            flag = false;
-            System.out.println("[ 회원 주소록 ]");
-            System.out.println("1. 전체 회원 보기");
-            System.out.println("2. 회원 정보 등록");
-            System.out.println("3. 회원 정보 검색");
-            System.out.println("4. 회원 삭제");
-            System.out.println("5. 회원 정보 수정");
-            System.out.println("0. 프로그램 종료");
-            System.out.print("메뉴 번호 선택 >> ");
-            Scanner sc = new Scanner(System.in);
-            choice = sc.nextInt();
-            if(choice < 0 || choice > 5){
-                System.out.println("잘못된 입력이니 다시 입력하시오.");
-                flag = true;
-            }
-        } while (flag);
-        return choice;
-    }
+		System.out.println("Program Loading Success.");
 
-    private void process(int choice){
-        switch(choice){
-            case 0:
-                Save save = new Save(this.list, PATH);
-                save.save();
-                System.out.println("Data Save Success");
-                System.exit(0); break;
-            case 1:
-                List myList = new List(this.list);
-                myList.printList();
-                break;
-            case 2:
-                Insert insert = new Insert(sc, list);
-                insert.insert();
-                break;
-            case 3:
-                Search search = new Search(sc, list);
-                search.search();
-                break;
-            case 4:
-                Delete delete = new Delete(sc, list);
-                delete.delete();
-                break;
-            case 5:
-                Update update = new Update(sc, list);
-                update.update();
-                break;
-        }
-    }
+		int choice = 0;
+		while(true) {
+			choice = main.showMenu();
+			main.process(choice);
+		}
+	}
+	private void process(int choice) {
+		switch(choice) {
+			case 0 :
+				Save save = new Save(this.list);
+				save.save();
+				System.out.println("Bye!!. Data Save Success.");
+				System.exit(0);  break;
+			case 1 :
+				List mylist = new List(this.list);
+				mylist.printList();
+				break;
+			case 2 :
+				Insert insert = new Insert(this.list, this.scan);
+				insert.insert();
+				break;
+			case 3:
+				Person person = this.search();
+				if(person == null) System.out.println("Not Found");
+				else System.out.println(person);
+				break;
+			case 4 : break;
+			case 5 :
+				Person person1 = this.search();
+				System.out.println("원 전화번호 : " + person1.getTel());
+				System.out.print("수정할 전화번호 : ");
+				String tel = this.scan.nextLine();
+				person1.setTel(tel);
+				int idx = this.list.indexOf(person1);
+				this.list.set(idx, person1);
+				break;
+		}
+	}
+	private Person search() {
+		this.scan.nextLine();   //enter key 날리기
+		Search search = new Search(this.list, this.scan);
+		return search.search();
+	}
+	private int showMenu() {
+		System.out.println("[ 회원 주소록 ]");
+		System.out.println("1. 전체 회원 보기");
+		System.out.println("2. 회원 정보 등록");
+		System.out.println("3. 회원 정보 검색");
+		System.out.println("4. 회원 삭제");
+		System.out.println("5. 회원 정보 수정");
+		System.out.println("0. 프로그램 종료");
+		System.out.print("메뉴 번호 선택 >> ");
+		return this.scan.nextInt();
+	}
 }

@@ -9,26 +9,35 @@ import java.sql.*;
 public class Test {
     public static void main(String[] args) {
         Connection con = null;
-        PreparedStatement pstmt = null;
+        Statement pstmt = null;
         ResultSet rs = null;
 
-        String server = "localhost"; // MySQL 서버 주소
-        String database = ""; // MySQL DATABASE 이름
+        String server = "192.168.56.2:3306"; // MySQL 서버 주소
+        String database = "yoga"; // MySQL DATABASE 이름
         String user_name = "root"; //  MySQL 서버 아이디
         String password = "javamariadb"; // MySQL 서버 비밀번호
 
         // 1.드라이버 로딩
         try {
-            con = Class.forName("org.mariadb.jdbc.Driver");
+            Class.forName("org.mariadb.jdbc.Driver");
         } catch (ClassNotFoundException e) {
             System.err.println(" !! <JDBC 오류> Driver load 오류: " + e.getMessage());
             e.printStackTrace();
+        } catch (Exception e){
+            e.printStackTrace();
         }
 
-        // 2.연결
+        // 2.연결 및 테스트
         try {
-            con = DriverManager.getConnection("jdbc:mysql://" + server + "/" + database + "?useSSL=false", user_name, password);
+            String sql = "SELECT * FROM MEMBER";
+            con = DriverManager.getConnection("jdbc:mariadb://" + server + "/" + database + "?useSSL=false", user_name, password);
             System.out.println("정상적으로 연결되었습니다.");
+            pstmt = con.createStatement();
+            rs = pstmt.executeQuery(sql);
+            if(rs.next()){
+                System.out.println(rs.getString("EMAIL"));
+            }
+
 
 
         } catch(SQLException e) {

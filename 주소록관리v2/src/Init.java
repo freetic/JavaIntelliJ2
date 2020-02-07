@@ -1,37 +1,35 @@
-import java.io.*;
+import java.io.DataOutputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.net.Socket;
 import java.util.ArrayList;
 
 public class Init {
-    private ObjectInputStream ois;
+	private ObjectInputStream ois;
+	private Socket socket;
+	private ArrayList<Person> list;
 
-    public Init(String path){
-        File file = new File(path);
-        try {
-            if(file.exists()){  // 파일이 있다면 역직렬화 수행, 이미 한번 이상 사용했다면
-                this.ois = new ObjectInputStream(new FileInputStream(file));
-            } else {            // 파일이 없다면, 프로그램을 처음 사용함.
-                file.createNewFile();
-                this.ois = null;
-            }
-        }catch(EOFException e){ // 역직렬화 시, 데이터가 없다면 null / -1이 아니라, EOF 발생
-            this.ois = null;
-        }catch (IOException e) {
-            e.printStackTrace();
-        }
-
-    }
-    public ArrayList<Person> init(){
-        ArrayList<Person> list = null;
-        try {
-            if(this.ois != null) {
-                list = (ArrayList<Person>) this.ois.readObject();
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }
-        if(list == null) list = new ArrayList<Person>();
-        return list;
-    }
+	public Init() {
+		DataOutputStream dos = null;
+		try {
+			this.socket = new Socket("211.63.89.154", 7777);
+			dos = new DataOutputStream(this.socket.getOutputStream());
+			dos.writeInt(1);
+			/*
+			 * Server로부터 들어오는 ArrayList<Person>를 역직렬화
+			 */
+			ObjectInputStream ois = new ObjectInputStream(this.socket.getInputStream());
+			this.list = (ArrayList<Person>)ois.readObject();
+			//System.out.println(list.size());
+		}catch(IOException ex) {
+			ex.printStackTrace();
+		}catch(ClassNotFoundException ex) {
+			System.out.println(ex);
+		}
+	}
+	public ArrayList<Person> init() {
+		return this.list;
+	}
 }

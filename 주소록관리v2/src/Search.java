@@ -2,25 +2,24 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Search {
-    Scanner sc;
-    ArrayList<Person> list;
+	private ArrayList<Person> list;
+	private Scanner scan;
 
-    public Search(Scanner sc, ArrayList<Person> list) {
-        this.sc = sc;
-        this.list = list;
-    }
-
-    public void search(){
-        System.out.println("[ 회원 검색 ]");
-        System.out.print("검색할 회원 이름 : ");
-        String name = sc.nextLine();
-        boolean flag = false;
-        for(int i = 0; i < list.size(); i++){
-            if(name.equals(list.get(i).getName())){
-                System.out.println(list.get(i).toString());
-                flag = true;
-            }
-        }
-        if(!flag) System.out.println("없다.");
-    }
+	public Search(ArrayList<Person> list, Scanner scan) {
+		this.list = list;
+		this.scan = scan;
+	}
+	public Person search() {
+		Person person = null;
+		System.out.print("찾으려는 회원의 이름 : ");
+		String name = this.scan.nextLine();
+		if(this.list.size() > 0) {
+			for(int i = 0 ; i < this.list.size() ; i++) {
+				if(this.list.get(i).getName().equals(name)) {
+					person = this.list.get(i);
+				}
+			}
+		}
+		return person;
+	}
 }

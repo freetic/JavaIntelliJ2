@@ -2,46 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b895ea-7c71-4bca-9e0d-7437e8b060bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mariadb_java_client_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/0206.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/Apache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/ChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/ChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/MariaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/TimeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/TimeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/TimeServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/UdpClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/UdpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/UdpServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/UdpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/test/TTT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0206/src/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YogaReservationManagement/YogaReservationManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YogaReservationManagement/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/mariadb-java-client-2.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/주소록관리v2/주소록관리v2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/0207.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/DateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/OneThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/ThreadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/ThreadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/ThreadDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0207/src/TwoThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/AddressServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/AddressServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/주소록관리v2/src/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0205/src/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/0206/src/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0205/src/ChatServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daum.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/naver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0206/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/0206/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Save.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/주소록관리v2/src/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/주소록관리v2/src/Update.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +85,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tools/mariadb-java-client-2.5.4.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MariaDB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/주소록관리v2/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="silsub" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaIntelliJ2\주소록관리v2\src" />
+      <recent name="C:\Program Files\Java\jdk1.8.0_231\jre\lib\deploy.jar" />
+      <recent name="D:\JavaIntelliJ2\0203\src" />
+      <recent name="D:\JavaIntelliJ2\0131\src\silsub" />
+      <recent name="D:\JavaIntelliJ2\성적관리프로젝트6\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaIntelliJ2\0205\src" />
       <recent name="D:\JavaIntelliJ2\성적관리프로젝트9\src" />
@@ -115,75 +113,50 @@
       <recent name="D:\JavaIntelliJ2\0130" />
       <recent name="D:\JavaIntelliJ2\SalaryManagement\src\kr\co\sist\libs\utils" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaIntelliJ2\주소록관리v2\src" />
-      <recent name="D:\JavaIntelliJ2\0203\src" />
-      <recent name="D:\JavaIntelliJ2\0131\src\silsub" />
-      <recent name="D:\JavaIntelliJ2\성적관리프로젝트6\src" />
-      <recent name="D:\JavaIntelliJ2\0130\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="silsub" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="주소록관리v2" />
+  <component name="RunManager" selected="Application.ThreadDemo3">
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo" />
+      <module name="0207" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TTT" />
-      <module name="0206" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo1" />
+      <module name="0207" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test" />
-      <module name="0206" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ThreadDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo2" />
+      <module name="0207" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeServer" />
-      <module name="0206" />
+    <configuration name="ThreadDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo3" />
+      <module name="0207" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UdpServer" />
-      <module name="0206" />
+    <configuration name="TwoThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoThread" />
+      <module name="0207" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TTT" />
-        <item itemvalue="Application.TimeServer" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.UdpServer" />
+        <item itemvalue="Application.ThreadDemo3" />
+        <item itemvalue="Application.ThreadDemo2" />
+        <item itemvalue="Application.ThreadDemo1" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.TwoThread" />
       </list>
     </recent_temporary>
   </component>
@@ -192,17 +165,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:MariaDB - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:MariaDB - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@51ae41ce" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -234,7 +197,8 @@
       <workItem from="1580803265773" duration="2964000" />
       <workItem from="1580861379422" duration="22690000" />
       <workItem from="1580948187742" duration="15916000" />
-      <workItem from="1580967809752" duration="11158000" />
+      <workItem from="1580967809752" duration="11355000" />
+      <workItem from="1581033181727" duration="22725000" />
     </task>
     <task id="LOCAL-00001" summary="0205">
       <created>1580892561025</created>
@@ -250,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580892633193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0206">
+      <created>1580979115305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580979115305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +230,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0205" />
-    <option name="LAST_COMMIT_MESSAGE" value="0205" />
+    <MESSAGE value="0206" />
+    <option name="LAST_COMMIT_MESSAGE" value="0206" />
   </component>
   <component name="WindowStateProjectService">
     <state x="387" y="294" key="#Getter_Template" timestamp="1580430229409">
@@ -286,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580369868473" />
-    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1580974571890">
+    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1581057438286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580974571890" />
+    <state x="1200" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581057438286" />
     <state x="870" y="159" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580952019790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,10 +270,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="157" key="#index.html/0.0.1920.1040@0.0.1920.1040" timestamp="1580959698106" />
-    <state x="730" y="72" key="CommitChangelistDialog2" timestamp="1580892632239">
+    <state x="730" y="72" key="CommitChangelistDialog2" timestamp="1580979112696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="730" y="72" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892632239" />
+    <state x="730" y="72" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580979112696" />
     <state x="368" y="119" key="DiffContextDialog" timestamp="1580892392650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -314,26 +286,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1016" y="256" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580967569864" />
-    <state x="1112" y="306" key="FileChooserDialogImpl" timestamp="1580978690418">
+    <state x="1112" y="306" key="FileChooserDialogImpl" timestamp="1581062659855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1112" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580978690418" />
-    <state width="1218" height="142" key="GridCell.Tab.0.bottom" timestamp="1580978897390">
+    <state x="1112" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581062659855" />
+    <state width="1079" height="495" key="GridCell.Tab.0.bottom" timestamp="1581061834203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
-    <state width="1218" height="142" key="GridCell.Tab.0.center" timestamp="1580978897390">
+    <state width="1079" height="495" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581061834203" />
+    <state width="1079" height="495" key="GridCell.Tab.0.center" timestamp="1581061834203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
-    <state width="1218" height="142" key="GridCell.Tab.0.left" timestamp="1580978897390">
+    <state width="1079" height="495" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581061834203" />
+    <state width="1079" height="495" key="GridCell.Tab.0.left" timestamp="1581061834203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
-    <state width="1218" height="142" key="GridCell.Tab.0.right" timestamp="1580978897390">
+    <state width="1079" height="495" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581061834203" />
+    <state width="1079" height="495" key="GridCell.Tab.0.right" timestamp="1581061834203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1218" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580978897390" />
+    <state width="1079" height="495" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581061834203" />
     <state width="288" height="548" key="HiddenNamespacesPopup" timestamp="1580967232936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,18 +314,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="222" width="705" height="604" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579755983620" />
-    <state x="624" y="0" key="SettingsEditor" timestamp="1580978840591">
+    <state x="624" y="0" key="SettingsEditor" timestamp="1581036933384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="624" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580978840591" />
-    <state width="623" height="498" key="SwitcherDM" timestamp="1580787889692">
+    <state x="624" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581036933384" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1581034646155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580787889692" />
-    <state x="633" y="207" key="Vcs.Push.Dialog.v2" timestamp="1580892636399">
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1581034646155" />
+    <state x="633" y="207" key="Vcs.Push.Dialog.v2" timestamp="1580979127509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580892636399" />
+    <state x="633" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580979127509" />
     <state x="951" y="157" width="862" height="706" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580343715609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -362,10 +334,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580286805237" />
-    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1580967809958">
+    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1581033336600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580967809958" />
+    <state x="1087" y="373" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581033336600" />
+    <state x="971" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581040816069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="971" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581040816069" />
     <state x="971" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580884539815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -382,10 +358,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1005" y="376" width="613" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579761937499" />
-    <state x="743" y="284" key="new project wizard" timestamp="1580977900166">
+    <state x="244" y="112" key="new project wizard" timestamp="1581062676302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="284" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580977900166" />
+    <state x="244" y="112" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581062676302" />
     <state x="627" y="276" width="748" height="561" key="recent.locations.popup" timestamp="1580701309815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -394,10 +370,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580779028452" />
-    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup" timestamp="1580966625807">
+    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup" timestamp="1581060623403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580966625807" />
+    <state x="257" y="292" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581060623403" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
